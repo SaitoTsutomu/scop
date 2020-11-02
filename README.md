@@ -1,1 +1,1 @@
-Wrapper of SCOP(Solver for  COnstraint Programing)
+Wrapper of SCOP(Solver for COnstraint Programing)
